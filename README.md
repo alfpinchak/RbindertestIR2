@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alfpinchak/RbindertestIR2/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alfpinchak/bindeRtest2/master?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
